@@ -16,8 +16,8 @@ Este README actúa como **índice general** y se irá ampliando a medida que ava
 
 Cada ejercicio vive en su propia carpeta dentro del módulo correspondiente y contiene:
 
-- `README.md` — enunciado con contexto, objeto de ejemplo, objetivo y requisitos.
-- Un archivo `.js` con la solución y una prueba mediante `console.log()`.
+- `README.md` — enunciado con contexto, objeto o HTML de ejemplo, objetivo y requisitos.
+- La solución: `index.html` y `script.js` en los módulos de DOM, o un archivo `.js` con una prueba mediante `console.log()` en los módulos de Node.js.
 
 La estructura se organiza por **módulos temáticos**, que se irán añadiendo con el tiempo.
 
@@ -29,16 +29,21 @@ Manipulación de objetos y arrays (`includes`, `push`) aplicada a casos práctic
 
 → [Ver los ejercicios del módulo](./javascript-objects-exercises/README.md)
 
+### Módulo 2 — DOM y eventos
+
+Selección de elementos, escucha de eventos y modificación de texto, estilos y clases.
+
+→ [Ver los ejercicios del módulo](./javascript-dom-exercises/README.md)
+
 ### Próximos módulos
 
-Espacio reservado para los siguientes temarios (funciones, estructuras de datos, DOM, eventos, asincronía, etc.).
-
+Espacio reservado para los siguientes temarios (funciones, estructuras de datos, asincronía, etc.).
 
 ## Recomendaciones de estudio
 
 1. Lee el contexto del ejercicio e intenta resolverlo **antes** de mirar la solución.
 2. Prueba con distintos valores de entrada (incluidos casos límite).
-3. Compara tu solución con la del archivo `.js` y pregúntate si hay una forma más sencilla.
+3. Compara tu solución con la del archivo de solución y pregúntate si hay una forma más sencilla.
 4. Si un método es nuevo, consulta su documentación en [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript).
 
 ---
@@ -61,8 +66,8 @@ This README works as a **general index** and will grow as I move forward through
 
 Each exercise lives in its own folder inside the corresponding module and contains:
 
-- `README.md` — statement with context, example object, goal and requirements.
-- A `.js` file with the solution and a test using `console.log()`.
+- `README.md` — statement with context, example object or HTML, goal and requirements.
+- The solution: `index.html` and `script.js` in the DOM modules, or a `.js` file with a test using `console.log()` in the Node.js modules.
 
 The structure is organized by **thematic modules**, which will be added over time.
 
@@ -74,14 +79,20 @@ Object and array manipulation (`includes`, `push`) applied to practical cases.
 
 → [See the module exercises](./javascript-objects-exercises/README.md)
 
+### Module 2 — DOM and events
+
+Selecting elements, listening for events and changing text, styles and classes.
+
+→ [See the module exercises](./javascript-dom-exercises/README.md)
+
 ### Upcoming modules
 
-Space reserved for the next topics (functions, data structures, DOM, events, asynchrony, etc.).
+Space reserved for the next topics (functions, data structures, asynchrony, etc.).
 
 ## Study recommendations
 
 1. Read the context of the exercise and try to solve it **before** looking at the solution.
 2. Try different input values (including edge cases).
-3. Compare your solution with the one in the `.js` file and ask yourself if there is a simpler way.
+3. Compare your solution with the one in the solution file and ask yourself if there is a simpler way.
 4. If a method is new to you, check its documentation on [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
